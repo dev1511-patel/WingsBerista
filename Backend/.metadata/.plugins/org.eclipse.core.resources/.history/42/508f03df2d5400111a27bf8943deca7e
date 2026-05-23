@@ -1,0 +1,5 @@
+package com.wingsberista.backend.dto;
+
+public class AuthResponse {
+
+}

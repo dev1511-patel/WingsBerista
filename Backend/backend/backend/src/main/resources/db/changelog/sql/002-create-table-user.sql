@@ -1,0 +1,15 @@
+--liquibase formatted sql
+
+--changeset wingsberista:002-create-user
+
+CREATE TABLE users (
+    id BIGSERIAL PRIMARY KEY,
+    first_name VARCHAR(100),
+    last_name VARCHAR(100),
+    email VARCHAR(150) UNIQUE NOT NULL,
+    phone_number VARCHAR(20),
+    password VARCHAR(255) NOT NULL,
+    role VARCHAR(20),
+    admin_secret_key VARCHAR(255),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

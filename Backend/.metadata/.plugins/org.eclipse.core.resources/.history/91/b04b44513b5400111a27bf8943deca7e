@@ -1,0 +1,24 @@
+package com.wingsberista.backend.dto;
+
+import com.wingsberista.backend.entity.User.UserBuilder;
+import com.wingsberista.backend.enums.Role;
+
+import lombok.Builder;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Builder
+public class AuthResponse {
+	
+		private Long id;
+	    private String name;
+	    private String email;
+	    private Role role;
+	    private String token;
+		public static UserBuilder builder() {
+			// TODO Auto-generated method stub
+			return null;
+		}
+
+}

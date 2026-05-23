@@ -1,0 +1,35 @@
+package com.wingsberista.backend.service;
+
+import org.springframework.stereotype.Service;
+
+import com.wingsberista.backend.dto.AuthResponse;
+import com.wingsberista.backend.dto.LoginRequest;
+import com.wingsberista.backend.dto.SignupRequest;
+import com.wingsberista.backend.repository.UserRepository;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class AuthServiceImpl implements AuthService {
+	
+	private final UserRepository userRepository;
+	
+	private static final String ADMIN_SECRET = "WINGS2026ADMIN";
+	
+
+	@Override
+	public AuthResponse signup(SignupRequest request) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public AuthResponse login(LoginRequest request) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	
+
+}

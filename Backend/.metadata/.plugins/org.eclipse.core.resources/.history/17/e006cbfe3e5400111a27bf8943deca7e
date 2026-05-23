@@ -1,0 +1,5 @@
+package com.wingsberista.backend.controller;
+
+public class AuthController {
+
+}

@@ -1,0 +1,5 @@
+package com.wingsberista.backend.config;
+
+public class SecurityConfig {
+
+}

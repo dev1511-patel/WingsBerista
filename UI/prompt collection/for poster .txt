@@ -1,0 +1,69 @@
+1. Create a realistic cafe-style food image with cinematic lighting and high contrast.
+
+Canvas:
+
+* Aspect ratio: 4:5 (1080x1350, Instagram post)
+* Vertical composition
+
+🚨 IMPORTANT STYLE DIRECTION:
+
+* Keep the scene NATURAL like a real cafe
+* BUT apply CINEMATIC DARK COLOR GRADING (not flat or dull)
+* Increase contrast: deep shadows + bright highlights
+* Colors should be rich, especially RED and golden tones
+
+Food:
+
+* Place the food plate at center
+* Keep the original food, plate, and presentation EXACTLY the same (no changes)
+* Add slight gloss and highlight to make food look crispy and fresh
+* Add realistic steam rising from the food (soft but visible)
+
+Table:
+
+* Red and black checkered cloth
+* Keep it realistic but slightly darker in tone
+
+Background:
+
+* Realistic cafe interior (slightly blurred / bokeh)
+* Maintain RED wall theme
+* Add warm hanging lights (soft glow)
+* Background should be darker than food (depth effect)
+
+Logo:
+
+* Place Wing Berista chicken logo on back wall
+* Keep logo SMALL and balanced
+* Add soft glow (not too strong, natural signboard feel)
+
+Lighting:
+
+* Use directional lighting (from left or right side)
+* Food should be the brightest subject
+* Background slightly dim and soft
+
+Color Grading (VERY IMPORTANT):
+
+* Cinematic tone
+* Deep blacks, rich reds, warm highlights
+* Slight vignette (dark corners)
+* High dynamic range (HDR look)
+
+Quality:
+
+* Ultra realistic, DSLR quality
+* Professional food photography
+* Sharp focus on food, blurred background
+
+🚫 DO NOT:
+
+* Do NOT make lighting flat or overexposed
+* Do NOT make colors washed out
+* Do NOT oversize the logo
+* Do NOT change food structure
+
+Final Look:
+
+* Should feel like a real cafe photo but with premium cinematic contrast and depth
+* Dark, rich, and visually appealing (Instagram-ready)

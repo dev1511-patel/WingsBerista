@@ -1,0 +1,5 @@
+package com.wingsberista.backend.service;
+
+public interface AuthService {
+
+}
